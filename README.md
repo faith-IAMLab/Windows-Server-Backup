@@ -1,5 +1,7 @@
-I am currently setting up my Windows Server to have a backup. In a real enterprise we set up backups constantly just in case an issue with the system or even the files arises. 
-When you have constant backups with your server you are able to restore from the last best position your system was in. 
+This lab demonstrates the configuration and testing of Windows Server Backup on Windows Server 2022.
+
+The objective of this project is to simulate enterprise backup and recovery operations used to protect organizational data and maintain business continuity in the event of system failure, accidental deletion, or data corruption.
+
 
 Tools: 
 Windows 2022 Server
