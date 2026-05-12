@@ -1,0 +1,12 @@
+I am currently setting up my Windows Server to have a backup. In a real enterprise we set up backups constantly just in case an issue with the system or even the files arises. 
+When you have constant backups with your server you are able to restore from the last best position your system was in. 
+
+Tools: 
+Windows 2022 Server
+Powershell
+CMD
+Remote Manager
+
+1. Install Backup Feature in Powershell
+
+
