@@ -26,10 +26,17 @@ Lastly we are formating the volume becuase without it windows cannot properly st
 4. Configure Scheduled Backup
    <img width="516" height="385" alt="image" src="https://github.com/user-attachments/assets/ddcb0b61-7a74-4fc1-a279-d50db97f0acc" />
 
--addtarget:E:  Backup Destination
--allCritical   Critical System Volumes
--schedule:23:00  Daily at 11:00pm
--quiet           No confirmation prompts
+-addtarget:E:  
+Backup Destination
+
+-allCritical   
+Critical System Volumes
+
+-schedule:23:00 
+Daily at 11:00pm
+
+-quiet          
+No confirmation prompts
 
 5. Verify the backup
    <img width="435" height="130" alt="image" src="https://github.com/user-attachments/assets/c46b6146-873c-412e-8317-1ed9f2ff2aac" />
